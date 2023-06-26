@@ -42,7 +42,7 @@ The Finance Tracker is a straightforward online tool meant to assist users in ma
 
 
 
-## Screenshots
+## usage of github copilot
 ![IMG-20230605-WA0015](https://github.com/08Janhavi/GitHub-Copilot-Hackathon/assets/116000404/12fab400-d0c8-4575-848f-d2834a4f012e)
 ![IMG-20230605-WA0016](https://github.com/08Janhavi/GitHub-Copilot-Hackathon/assets/116000404/d7901f55-7447-4a9e-a05c-3760ad71b93a)
 ![IMG-20230605-WA0017](https://github.com/08Janhavi/GitHub-Copilot-Hackathon/assets/116000404/b01f7c7a-65d7-4bc4-98e8-e6a5bb536562)
